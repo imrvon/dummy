@@ -1,0 +1,36 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    border: solid 2px red;
+}
+
+a {
+    text-decoration: none;
+    color: #685F5D;
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 2rem;
+}
+
+.first_div {
+    width: 10%;
+}
+.first_img {
+    width: 100%;
+}
+
+header, .third_div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+.join {
+    background-color: #685F5D;
+    color: #F6F2F1;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+}
